@@ -1,0 +1,54 @@
+{//suma tres numeros
+let numero1=1
+let numero2=1
+let numero3=1
+let resultado=numero1+numero2+numero3
+console.log(resultado)}
+{//primer grado de una variable
+  let en=5
+  let resultado=en+4
+  console.log(resultado)
+}
+{//despejar x en 5*+50=60
+  let mg=5
+  let mn=+50
+  let ff=60
+  let despeja1=5
+  let despeja2=50//es negativa
+  let operacion=(ff-despejamn)/mg
+  let resultado=operacion
+  console.log(resultado)
+}
+{//centimetro a pulgadas
+let centimetros=49
+let pulgadas=centrimentos/24.5
+console.log(pulgadas)
+}
+{//promedio
+let1=9
+let2=7
+let3=10
+let4=9.5
+let promedio(let1+let2+let3+let4)/4
+console.log(promedio)
+}
+{//cuadrado 250
+let 250
+letcuadrado(numero*numero)
+console.log(cuadrado)
+}
+{//}cuadrado de un numero
+let4
+let cuadrado=(num*num)
+console,log(cuadrado)
+}
+{"5" ==="5"
+for(let index = 0; index< 11 ; index++)
+console.log("hola mundo")
+}
+{//millas marinas y normales}
+let mts=1852
+let mn=mts/1852
+let mm=mts/1609
+console.log(mn)
+console.log(mm)}
